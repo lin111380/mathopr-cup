@@ -1,0 +1,1 @@
+# mathopr-cup
