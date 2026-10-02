@@ -1,0 +1,29 @@
+# ===== 大型安装包与二进制文件 =====
+*.whl
+*.pt
+*.pth
+*.part
+*.tar.gz
+
+# ===== 日志 =====
+*.log
+
+# ===== 数据集（体积大，建议本地/网盘管理，不传 GitHub） =====
+数据集3713/
+work/
+
+# ===== 运行结果 =====
+results/
+
+# ===== Python 缓存 =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# ===== IDE / 系统文件 =====
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
